@@ -1,4 +1,12 @@
 # CrudJsonServer
+You must fristly Install JSON Server
+
+npm install -g json-server
+and then
+Alternative port
+You can start JSON Server on other ports with the --port flag:
+
+$ json-server --watch db.json 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
